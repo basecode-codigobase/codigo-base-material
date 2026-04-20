@@ -7,4 +7,4 @@ title: Módulo 01 — Unix, Shell e Git
 
 ## Aulas
 
-- [Aula 01](./aula-01/)
+- [Aula 01 — Unix, Shell e Git](./aula-01/)
