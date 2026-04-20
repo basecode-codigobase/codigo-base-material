@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Material Pré-aula
+title: Aula 01 — Unix, Shell e Git
 ---
 
-# Material Pré-aula
+# Aula 01 — Unix, Shell e Git
 
-Seu conteúdo aqui.
+## Materiais
+
+- [Material Pré-aula](./material-pre-aula.html)
