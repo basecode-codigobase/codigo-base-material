@@ -1,3 +1,8 @@
+---
+layout: default
+title: Material Pré-aula
+---
+
 # Material Pré-aula — Aula 01: Unix e Shell
 
 Este material apresenta o conteúdo completo da Aula 01.
