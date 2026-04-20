@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Módulo 01 — Unix, Shell e Git
+title: Módulos
 ---
 
-# Módulo 01 — Unix, Shell e Git
+# Módulos
 
-## Aulas
-
-- [Aula 01](./aula-01/)
+- [Módulo 01 — Unix, Shell e Git](./modulo-01-unix-shell-git/)
