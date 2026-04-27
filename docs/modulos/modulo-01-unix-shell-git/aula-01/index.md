@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Aula 01 — Unix, Shell e Git
+title: Aula 01 — Unix, Shell
 ---
 
-# Aula 01 — Unix, Shell e Git
+# Aula 01 — Unix, Shell
 
 ## Materiais
 
