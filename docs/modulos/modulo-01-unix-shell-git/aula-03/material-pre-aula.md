@@ -1,3 +1,8 @@
+---
+layout: default
+title: Material Pré-aula
+---
+
 # Material Pré-aula — Aula 03: GitHub
 
 ## Como usar este material
