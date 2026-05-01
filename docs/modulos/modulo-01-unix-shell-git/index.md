@@ -9,3 +9,4 @@ title: Módulo 01 — Unix, Shell e Git
 
 - [Aula 01 — Unix, Shell](./aula-01/)
 - [Aula 02 — Git](./aula-02/)
+- [Aula 03 — Github](./aula-03/)
