@@ -10,3 +10,4 @@ Local de disponibilização dos materiais do Curso de Programação - Código Ba
 ## Módulos
 
 - [Módulo 01 — Unix, Shell e Git](./modulos/modulo-01-unix-shell-git/)
+- [Módulo 02 — Introdução ao Javascript](./modulos/modulo-02-introducao-ao-javascript/)
