@@ -13,3 +13,5 @@ Modulo - 02
 
 Aula - 01 - Algoritmo e Lógica de Programação <br>
 Aula - 02 - Primeiros Passos no JS
+Aula - 03 - Arrays e Loops
+Aula - 04 - Funções
